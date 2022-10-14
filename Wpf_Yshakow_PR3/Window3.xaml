@@ -38,7 +38,6 @@
             <TextBox x:Name="okno2_Copy" TextWrapping="Wrap" Text="" Style="{StaticResource style2}" LostFocus="okno_LostFocus" SelectionChanged="okno_SelectionChanged" Canvas.Left="100" Canvas.Top="114" HorizontalAlignment="Center" VerticalAlignment="Top" />
             <TextBox x:Name="okno2_Copy1" TextWrapping="Wrap" Text="" Style="{StaticResource style2}" LostFocus="okno_LostFocus" SelectionChanged="okno_SelectionChanged" Canvas.Left="100" Canvas.Top="244" HorizontalAlignment="Center" VerticalAlignment="Top" />
             <TextBox x:Name="okno2_Copy2" TextWrapping="Wrap" Text="" Style="{StaticResource style2}" LostFocus="okno_LostFocus" SelectionChanged="okno_SelectionChanged" Canvas.Left="100" Canvas.Top="309" HorizontalAlignment="Center" VerticalAlignment="Top" />
-
         </Canvas>
 
         <Canvas Background="{StaticResource cocl1}" Grid.Column="1">
@@ -48,6 +47,5 @@
             <TextBox x:Name="okno5_Copy" TextWrapping="Wrap" Text="" Style="{StaticResource style2}" LostFocus="okno_LostFocus" SelectionChanged="okno_SelectionChanged" Canvas.Left="110" Canvas.Top="244" HorizontalAlignment="Center" VerticalAlignment="Top" />
             <TextBox x:Name="okno5_Copy1" TextWrapping="Wrap" Text="" Style="{StaticResource style2}" LostFocus="okno_LostFocus" SelectionChanged="okno_SelectionChanged" Canvas.Left="110" Canvas.Top="309" HorizontalAlignment="Center" VerticalAlignment="Top" />
         </Canvas>
-
     </Grid>
 </Window>
